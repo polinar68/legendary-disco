@@ -1,3 +1,4 @@
+"POLLYRAMOS",
 === Storefront ===
 Contributors: automattic, tiagonoronha, jameskoster
 Requires at least: 5.2.7
